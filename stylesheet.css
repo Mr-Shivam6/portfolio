@@ -58,11 +58,11 @@ body {
 
 
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     body {
         background-image: none;
     }
-}
+} */
 
 .header {
     position: fixed;
@@ -1365,5 +1365,6 @@ input-field input::before,
     line-height: 1.7;
     margin-bottom: 15px;
 }
+
 
 
