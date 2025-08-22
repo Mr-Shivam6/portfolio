@@ -141,7 +141,7 @@ body {
     z-index: 1100;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 768px) {
     #menu-icon {
         display: block;
         font-size: 3rem;
@@ -1365,4 +1365,5 @@ input-field input::before,
     line-height: 1.7;
     margin-bottom: 15px;
 }
+
 
