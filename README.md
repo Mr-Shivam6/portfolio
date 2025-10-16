@@ -58,7 +58,7 @@ This is my **personal developer portfolio**, designed to represent my:
 </p>
 
 <p align="center">
-  <img src="music player.png" width="700" alt="Projects Screenshot" />
+  <img src="all pdf/music player.png" width="700" alt="Projects Screenshot" />
 </p>
 
 ---
