@@ -49,19 +49,6 @@ This is my **personal developer portfolio**, designed to represent my:
 🔗 **Portfolio Website:** [View Live](https://mr-shivam6.github.io/portfolio/)  
 💻 **GitHub Repo:** [Portfolio Repository](https://github.com/Mr-Shivam6/portfolio)
 
----
-
-## 🖼️ Screenshots
-
-<p align="center">
-  <img src="portfolio img.png" width="700" alt="Homepage Screenshot" />
-</p>
-
-<p align="center">
-  <img src="all pdf/music player.png" width="700" alt="Projects Screenshot" />
-</p>
-
----
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📂 Folder Structure
 
